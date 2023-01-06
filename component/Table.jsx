@@ -29,7 +29,6 @@ const Tabledense = ({data, showForm,edit,nombre,fecha_fabricacion,valor,cantidad
               <td className="text-white" >{row.valor}</td>
               <td className="text-white" >{row.cantidad}</td>
               <td><Button variant="warning">Editar</Button></td>
-              <td><Button variant="danger">Eliminar</Button></td>
             </tr>
 
            ))

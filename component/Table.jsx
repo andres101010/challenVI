@@ -15,7 +15,6 @@ const Tabledense = ({data, showForm,edit,nombre,fecha_fabricacion,valor,cantidad
             <th className="text-white">Valor $</th>
             <th className="text-white">Cantidad</th>
             <th className="text-white">Editar</th>
-            <th className="text-white">Eliminar</th>
           </tr>
         </thead>
         <tbody>
